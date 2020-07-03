@@ -10,4 +10,4 @@ Aplicação para você dev disponibilizando vídeos sobre programação.
 
 | Foto                                                                                                                             | Nome                      | GitHub                                                                                    | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| <img src="eu.jpeg" width="100px"> | Jemima Santos da Fonseca | [Jemima](https://github.com/mimasf) |  | jemimafonseca@outlook.com |
+| <img src="./src./assets/eu.jpeg" width="100px"> | Jemima Santos da Fonseca | [Jemima](https://github.com/mimasf) |  | jemimafonseca@outlook.com |
