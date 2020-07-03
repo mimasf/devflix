@@ -1,6 +1,6 @@
 
 **Objetivo** 
-Aplicação para você dev disponibilizando vídeos sobre programação.
+Disponibilizando vídeos sobre programação.
 
 **Justificativa**
 
