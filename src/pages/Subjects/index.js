@@ -9,7 +9,7 @@ export default function Subjects({ navigation }) {
     <View style={Style.container}>
       <View style={Style.header}>
         <TouchableOpacity onPress={() => navigation.goBack()}>
-          <Feather name="arrow-left" size={18} color="#000000" />
+          <Feather name="arrow-left" size={18} color="#ffff00" />
         </TouchableOpacity>
       </View>
     </View>

@@ -42,7 +42,7 @@ function Hero() {
   return (
     <ActionMenu>
       <Button>
-        <Feather name="plus" size={26} color="#e9ecef" />
+        <Feather name="plus" size={26} color="#000" />
         <TextButton>Minha lista</TextButton>
       </Button>
       <Play>
@@ -50,7 +50,7 @@ function Hero() {
         <TextPlayBtn>Assistir</TextPlayBtn>
       </Play>
       <Button>
-        <Feather name="info" size={22} color="#e9ecef" />
+        <Feather name="info" size={22} color="#000" />
         <TextButton>Saiba mais</TextButton>
       </Button>
     </ActionMenu>

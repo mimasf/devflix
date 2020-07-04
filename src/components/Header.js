@@ -25,14 +25,13 @@ function Header() {
       <Logo resizeMode="contain" source={require("../assets/short-logo.png")} />
 
       <Menu
-        onPress={() => {
-          navigation.navigate("Playlist");
-        }}
+        
       >
         Playlists
       </Menu>
       <Menu>Vídeos</Menu>
       <Menu>Minha Lista</Menu>
+      
     </Container>
   );
 }

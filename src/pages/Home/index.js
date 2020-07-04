@@ -11,7 +11,7 @@ import Poster from "../../components/Poster";
 
 const Container = styled.ScrollView`
   flex: 1;
-  background-color: #333333;
+  background-color: #882673;
 `;
 
 async function changeScreenOrientation() {
@@ -25,20 +25,22 @@ function Home() {
         translucent
         backgroundColor="transparent"
         barStyle="light-content"
+        color="#000"
       />
       <Container>
         <Poster
-          url={"https://i.ytimg.com/vi/epDCjksKMok/hqdefault.jpg"}
+          url={"https://i.ytimg.com/vi/Mp0vhMDI7fA/maxresdefault.jpg"}
           title={
-            "O Universo DEV"
+            "O Universo DEV" 
           }
-          tags={["React Native", "Expo"]}
+          tags={[]}
           content={<Header />}
         ></Poster>
 
         <Videos label="Recomendados" videos={videos} />
         <Videos label="Lançamentos" videos={videos} />
         <Videos label="Mais vistos" videos={videos} />
+        
       </Container>
     </>
   );
